@@ -6,5 +6,5 @@
 * [概要设计](gai_yao_she_ji.md)
 * [详细设计 部分](xiang_xi_she_ji_bu_fen.md)
 * [用户手册](yong_hu_shou_ce.md)
-* 模块设计
+* [模块设计](mo_kuai_she_ji.md)
 
